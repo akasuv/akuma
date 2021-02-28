@@ -1,5 +1,5 @@
 {
-  "name": "akuma",
+  "name": "@akasuv/akuma",
   "version": "0.0.1",
   "description": "😈 A dangerous untrustworthy code style adviser",
   "main": "index.js",
