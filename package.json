@@ -21,5 +21,8 @@
     "minimist": "^1.2.5",
     "prettier": "^2.2.1",
     "recast": "^0.20.4"
+  },
+  "devDependencies": {
+    "standard-version": "^9.1.1"
   }
 }
